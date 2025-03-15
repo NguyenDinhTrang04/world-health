@@ -36,3 +36,14 @@ The **World-Health** project focuses on analyzing and visualizing global health 
 4. Run the visualization script:
    ```r
    source("R/04_visualization.R")
+
+# Directory Structure
+```
+world-health/
+├── R/                # Contains R scripts
+│   └── 04_visualization.R
+├── data/             # Contains raw and processed data
+│   └── cleaned_data.csv
+├── README.md         # This document
+└── .gitignore        # Files to ignore in version control
+```
