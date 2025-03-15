@@ -37,7 +37,7 @@ The **World-Health** project focuses on analyzing and visualizing global health 
    ```r
    source("R/04_visualization.R")
 
-# Directory Structure
+## Directory Structure
 ```
 world-health/
 ├── R/                # Contains R scripts
