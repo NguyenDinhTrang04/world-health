@@ -21,11 +21,11 @@ The **World-Health** project focuses on analyzing and visualizing global health 
     - Required R libraries: `ggplot2`, `dplyr`, `tidyr` (install using `install.packages("package-name")`).
 
   ### Intruction
-  1. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/NguyenDinhTrang04/world-health.git
 
-  2. Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd world-health
 
